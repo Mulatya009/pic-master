@@ -1,0 +1,10 @@
+body{
+    font-family: 'Baloo Paaji 2', cursive;
+    overflow-x: hidden;
+}
+#search-banner{
+    max-width: 800px;
+}
+#search-images{
+    width: 100%;
+}
